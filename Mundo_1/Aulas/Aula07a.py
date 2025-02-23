@@ -1,0 +1,7 @@
+print("")
+nome = input("Qual seu nome: ")
+print(f"PRAZER EM TE CONHECER {nome.upper():20}!")
+print(f"PRAZER EM TE CONHECER {nome.upper():>20}!")
+print(f"PRAZER EM TE CONHECER {nome.upper():<20}!")
+print(f"PRAZER EM TE CONHECER {nome.upper():^20}!")
+print(f"PRAZER EM TE CONHECER {nome.upper():=^20}!")
