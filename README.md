@@ -6,6 +6,9 @@ print("Hello World")
 ```
 Até a descoberta de comandos mais avançados
 
+Esse repositório também conta com minhas anotações ao longo desse curso
+[Anotações](./Anotações)
+
 ## [Curso em Vídeo 📹](https://www.cursoemvideo.com/cursos/)
 Arquivos dedicados ao estudo de **Python** seguindo a ditática do professor Gustavo Guanabara.
 
