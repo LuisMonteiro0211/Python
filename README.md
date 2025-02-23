@@ -9,7 +9,7 @@ Até a descoberta de comandos mais avançados
 ## [Curso em Vídeo 📹](https://www.cursoemvideo.com/cursos/)
 Arquivos dedicados ao estudo de **Python** seguindo a ditática do professor Gustavo Guanabara.
 
-- [Mundo 1](./)
+- [Mundo 1](./Mundo_1/)
 
 ### 🔍Referências
 - [Mundo 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
